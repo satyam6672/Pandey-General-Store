@@ -1,0 +1,136 @@
+.logo{
+    border-radius: 100% ;
+    width:30px;
+    height:30px;
+    margin-right : 10px;
+
+}
+
+.navbar-nav
+{
+    margin-left:auto;
+}
+.upper-portion{
+  
+background-color:white;
+
+}
+.upper-one
+{
+padding-right: 0%;
+}
+.third-portion
+{
+    background-color: white;
+}
+.footer-area
+{
+    background-color:#8f8f8f;
+    text-align: center;
+
+}
+.satyam1 img
+{
+    height:90%;
+    width: 90%;
+    margin-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    border: 2px solid black;
+    background-color:orangered;
+    border-radius:10%;
+}
+.upper-portion h1
+{
+    font: size 1.5rem;;
+    color:black;
+}
+.inner-content
+{
+    padding-top: 14%;
+    padding-left: 5%;
+}
+.inner-content1
+{
+    padding-left: 5%; 
+}
+.middle section
+{
+    text-align:center;
+}
+#features
+{
+    padding:0% 14%; 
+    padding-bottom: 3%;
+}
+#features1
+{
+    padding: 4% 14%;
+}
+.location
+{
+    padding-top: 10%;
+}
+.feature-box
+{
+    text-align: center;
+    padding: 2%;
+}
+.icon-footer
+{
+    color: black;
+}
+.feature-box1
+{
+    text-align: center;
+    padding: 2%;
+    display: inline-block;
+}
+h2
+{
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.9rem;
+    padding-top: 15%;
+}
+h3
+{
+ font-family:Arial, Helvetica, sans-serif ;
+ font-size: 1rem;
+}
+p
+{
+    color: #8f8f8f;
+}
+.icon{
+    color:orangered;
+    margin-bottom: 1rem;
+
+}
+.icon:hover
+{
+    color:rgb(163, 68, 34);
+
+}
+.icon1
+{
+    color:orangered;
+  
+
+}
+.icon1:hover
+{
+    color:rgb(163, 68, 34);
+}
+.last-section
+{
+    background-color:white;
+    margin-bottom:0%;
+    padding-bottom: 10%;
+
+}
