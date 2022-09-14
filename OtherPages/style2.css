@@ -42,6 +42,10 @@ padding-right: 0%;
     background-color:orangered;
     border-radius:10%;
 }
+.satyam1 img:hover
+{
+    background-color: rgb(163, 68, 34);
+}
 .upper-portion h1
 {
     font: size 1.5rem;;
