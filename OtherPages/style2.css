@@ -12,7 +12,7 @@
 }
 .upper-portion{
   
-background-color:white;
+background-color:black;
 
 }
 .upper-one
@@ -21,7 +21,7 @@ padding-right: 0%;
 }
 .third-portion
 {
-    background-color: white;
+    background-color: black;
 }
 .footer-area
 {
@@ -42,7 +42,7 @@ padding-right: 0%;
     padding-right: 1%;
     padding-bottom: 1%;
     padding-top: 1%;
-    border: 2px solid black;
+    border: 2px solid white;
     background-color:orangered;
     border-radius:10%;
 }
@@ -53,7 +53,7 @@ padding-right: 0%;
 .upper-portion h1
 {
     font: size 1.5rem;;
-    color:black;
+    color:white;
 }
 .inner-content
 {
@@ -72,10 +72,12 @@ padding-right: 0%;
 {
     padding:0% 14%; 
     padding-bottom: 3%;
+    color: black;
 }
 #features1
 {
     padding: 4% 14%;
+    color: black;
 }
 .location
 {
@@ -100,17 +102,20 @@ padding-right: 0%;
 h2
 {
     font-family:Arial, Helvetica, sans-serif;
+    color: white;
 
 }
 h4{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 0.9rem;
     padding-top: 15%;
+    color: white;
 }
 h3
 {
  font-family:Arial, Helvetica, sans-serif ;
  font-size: 1rem;
+ color: white;
 }
 p
 {
