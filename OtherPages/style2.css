@@ -1,43 +1,17 @@
-.logo{
-    border-radius: 100% ;
-    width:30px;
-    height:30px;
-    margin-right : 10px;
-
-}
-
-.navbar-nav
+.body-class
 {
-    margin-left:auto;
-}
-.upper-portion{
-  
-background-color:black;
-
+    background-color: black;
 }
 .upper-one
 {
 padding-right: 0%;
 }
-.third-portion
-{
-    background-color: black;
-}
-.footer-area
-{
-    background-color:#8f8f8f;
-    text-align: center;
-
-}
-.custom-right
-{
-   margin-top: 3%; 
-}
-.satyam1 img
+.product img
 {
     height:95%;
     width: 95%;
     margin-top: 1%;
+    margin-left: 0%;
     padding-left: 1%;
     padding-right: 1%;
     padding-bottom: 1%;
@@ -46,7 +20,8 @@ padding-right: 0%;
     background-color:orangered;
     border-radius:10%;
 }
-.satyam1 img:hover
+
+.product img:hover
 {
     background-color: rgb(163, 68, 34);
 }
@@ -55,67 +30,16 @@ padding-right: 0%;
     font: size 1.5rem;;
     color:white;
 }
-.inner-content
-{
-    padding-top: 14%;
-    padding-left: 5%;
-}
-.inner-content1
-{
-    padding-left: 5%; 
-}
-.middle section
-{
-    text-align:center;
-}
-#features
-{
-    padding:0% 14%; 
-    padding-bottom: 3%;
-    color: black;
-}
-#features1
-{
-    padding: 4% 14%;
-    color: black;
-}
-.location
-{
-    padding-top: 10%;
-}
 .feature-box
 {
     text-align: center;
     padding: 2%;
     margin-top: 3%;
 }
-.icon-footer
-{
-    color: black;
-}
-.feature-box1
-{
-    text-align: center;
-    padding: 2%;
-    display: inline-block;
-}
 h2
 {
     font-family:Arial, Helvetica, sans-serif;
     color: white;
-
-}
-h4{
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 0.9rem;
-    padding-top: 15%;
-    color: white;
-}
-h3
-{
- font-family:Arial, Helvetica, sans-serif ;
- font-size: 1rem;
- color: white;
 }
 p
 {
@@ -124,26 +48,11 @@ p
 .icon{
     color:orangered;
     margin-bottom: 1rem;
+    margin-top: 10%;
 
 }
 .icon:hover
 {
     color:rgb(163, 68, 34);
-
-}
-.icon1
-{
-    color:orangered;
-
-}
-.icon1:hover
-{
-    color:rgb(163, 68, 34);
-}
-.last-section
-{
-    background-color:white;
-    margin-bottom:0%;
-    padding-bottom: 10%;
 
 }
