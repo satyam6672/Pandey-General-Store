@@ -71,6 +71,7 @@ hr{
 #features1
 {
 padding-bottom: 3%;
+padding-top: 5%;
 }
 .location
 {
@@ -79,7 +80,8 @@ padding-bottom: 3%;
 .feature-box
 {
     text-align: center;
-    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
     background-color: black;
 }
 .icon-footer
