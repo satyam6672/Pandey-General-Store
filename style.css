@@ -19,7 +19,6 @@ body
 margin-right: 5%;
 margin-left: 5%;
 border: 2px solid white;
-box-shadow: 0px 0px 10px white;
 
 }
 .third-portion
@@ -130,6 +129,7 @@ h3
 }
 p
 {
+    font-family:Arial, Helvetica, sans-serif ; 
     color: #8f8f8f;
 }
 .icon{
@@ -144,7 +144,7 @@ p
 }
 .icon1
 {
-    color:rgb(242, 125, 22);
+    color:goldenrod;
   
 
 }
