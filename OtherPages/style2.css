@@ -17,13 +17,13 @@ padding-right: 0%;
     padding-bottom: 1%;
     padding-top: 1%;
     border: 2px solid white;
-    background-color:orangered;
+    background-color:goldenrod;
     border-radius:10%;
 }
 
 .product img:hover
 {
-    background-color: rgb(163, 68, 34);
+    background-color:rgb(242, 125, 22);
 }
 .upper-portion h1
 {
@@ -46,13 +46,13 @@ p
     color: #8f8f8f;
 }
 .icon{
-    color:orangered;
+    color:goldenrod;
     margin-bottom: 1rem;
     margin-top: 10%;
 
 }
 .icon:hover
 {
-    color:rgb(163, 68, 34);
+    color:rgb(242, 125, 22);
 
 }
